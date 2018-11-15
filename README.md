@@ -1,5 +1,5 @@
 # software-engineering-economics
-в процессе 
+файлы .xlsx открывать лучше в google docs
 
 ##### лабораторная работа 1
 написать резюме
